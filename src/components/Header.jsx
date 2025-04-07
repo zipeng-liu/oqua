@@ -30,7 +30,7 @@ const WaterIcon = styled.span`
 const Header = () => {
   return (
     <HeaderContainer>
-      <Title>Opua Water Tracker</Title>
+      <Title>Oqua Water Tracker</Title>
     </HeaderContainer>
   );
 };
